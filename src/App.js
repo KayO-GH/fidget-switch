@@ -21,14 +21,7 @@ const App = () => {
 
   return (
     <div className="App App-header">
-      {/* 
-        For some weird reason, we need to wrap the img in a div and use onClick on the div 
-        Probably a bug
-      */}
-      <div onClick={handleClick}>
-        <img src={isOn ? onSwitch : offSwitch} alt="switch" />
-      </div>
-
+      <img src={isOn ? onSwitch : offSwitch} alt="switch" onClick={handleClick} />
     </div>
   );
 }
