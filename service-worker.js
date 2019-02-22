@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fidget-switch/precache-manifest.a22fd64aa0b71242feba5b7b895a6d5b.js"
+  "/fidget-switch/precache-manifest.13459de29606ab035e210ea3b65d122c.js"
 );
 
 workbox.clientsClaim();
