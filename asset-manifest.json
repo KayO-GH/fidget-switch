@@ -1,14 +1,14 @@
 {
-  "main.css": "/fidget-switch/static/css/main.4d3830e4.chunk.css",
-  "main.js": "/fidget-switch/static/js/main.1830b113.chunk.js",
-  "main.js.map": "/fidget-switch/static/js/main.1830b113.chunk.js.map",
+  "main.css": "/fidget-switch/static/css/main.8fd8f29e.chunk.css",
+  "main.js": "/fidget-switch/static/js/main.cd2a951f.chunk.js",
+  "main.js.map": "/fidget-switch/static/js/main.cd2a951f.chunk.js.map",
   "runtime~main.js": "/fidget-switch/static/js/runtime~main.3513ab6f.js",
   "runtime~main.js.map": "/fidget-switch/static/js/runtime~main.3513ab6f.js.map",
   "static/js/2.aebc50e1.chunk.js": "/fidget-switch/static/js/2.aebc50e1.chunk.js",
   "static/js/2.aebc50e1.chunk.js.map": "/fidget-switch/static/js/2.aebc50e1.chunk.js.map",
   "index.html": "/fidget-switch/index.html",
-  "precache-manifest.13459de29606ab035e210ea3b65d122c.js": "/fidget-switch/precache-manifest.13459de29606ab035e210ea3b65d122c.js",
+  "precache-manifest.8367c6ef6dca4e270930521df26c4eb2.js": "/fidget-switch/precache-manifest.8367c6ef6dca4e270930521df26c4eb2.js",
   "service-worker.js": "/fidget-switch/service-worker.js",
-  "static/css/main.4d3830e4.chunk.css.map": "/fidget-switch/static/css/main.4d3830e4.chunk.css.map",
+  "static/css/main.8fd8f29e.chunk.css.map": "/fidget-switch/static/css/main.8fd8f29e.chunk.css.map",
   "static/media/click.wav": "/fidget-switch/static/media/click.0eadc5e0.wav"
 }

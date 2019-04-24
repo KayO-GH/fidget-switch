@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/fidget-switch/static/js/runtime~main.3513ab6f.js"
   },
   {
-    "revision": "1830b113a2bc0afe70a8",
-    "url": "/fidget-switch/static/js/main.1830b113.chunk.js"
+    "revision": "cd2a951fd859a052f41d",
+    "url": "/fidget-switch/static/js/main.cd2a951f.chunk.js"
   },
   {
     "revision": "aebc50e1a964c3c96299",
     "url": "/fidget-switch/static/js/2.aebc50e1.chunk.js"
   },
   {
-    "revision": "1830b113a2bc0afe70a8",
-    "url": "/fidget-switch/static/css/main.4d3830e4.chunk.css"
+    "revision": "cd2a951fd859a052f41d",
+    "url": "/fidget-switch/static/css/main.8fd8f29e.chunk.css"
   },
   {
-    "revision": "bda7683652823b81ca619fa6af6bb766",
+    "revision": "6d992863f0538c9ea80d6deac757e48a",
     "url": "/fidget-switch/index.html"
   }
 ];
